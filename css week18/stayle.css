@@ -1,0 +1,81 @@
+body{
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+
+}
+.bg-blue{
+    background-color: rgb(179, 199, 186);
+}
+.navbar-light .navbar-brand{
+    font-size: 30px;
+    color: rgba(60, 47, 170, 0.836);
+}
+.navbar-light .navbar-nav .nav-link{
+    font-size: 20px;
+    color: rgba(156, 45, 64, 0.9);
+}
+.active{
+    font-size: 20px;
+    color: rgba(156, 45, 64, 0.9);
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover{
+    font-size: 20px;
+    color: rgb(49, 170, 114);
+}
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover{
+    font-size: 30px;
+    color: rgb(49, 170, 114);
+}
+.bg1{
+    background-image: url(../imag/marry/eat\ me\ Abigail.png);
+ }
+ .bg2{
+     background-image: url(../images/sky2.jpg);
+ }
+ 
+ .bg3{
+     background-image: url(../images/sky3.jpg);
+ }
+ 
+ .bg4{
+     background-image: url(../images/sky4.jpg);
+ }
+ .color1{
+     background-color: rgb(228, 196, 91);
+ }
+ .color2{
+     background-color: rgb(172, 72, 130);
+ }
+ .color3{
+     background-color: rgb(96, 110, 79);
+ }
+ .color4{
+     background-color: rgb(119, 28, 63);
+ }
+ html, body{
+     height:100%;
+ }
+ .fixed_bg, .infos{
+     height: 10%;
+ }
+ .fixed_bg{
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+ }
+.back_top{
+    display: block;
+    width: 80px;
+    height: 80px;
+    position: fixed;
+    right: 2%;
+    bottom: 2%;
+    text-align: center;
+    background-color: rgba(243, 188, 70, 0.815);
+}
+.back_top a{
+    font-size: 2rem;
+}

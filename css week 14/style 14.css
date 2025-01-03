@@ -1,0 +1,13 @@
+.back_top{
+    display: block;
+    width: 80px;
+    height: 80px;
+    position: fixed;
+    right: 2%;
+    bottom: 2%;
+    text-align: center;
+    background-color: rgb(218, 177, 45);
+}
+.back_top a{
+    font-size: 2rem;
+}

@@ -1,0 +1,58 @@
+.box{
+    background-color: rgb(246, 241, 233);
+    width: 980px;
+    margin:50px auto;
+    padding: 25px;
+    border-radius: 20px;
+    opacity: 90%;
+}
+
+body{
+    background-image:url(../imag/fairies\ gathering.png)
+}
+#top{
+    background-color: rgb(179, 199, 186);
+    padding: 10px;
+    margin: 0%;
+    position:fixed;
+    top: 0%;
+    z-index: 2;
+    width: 100%;
+}
+#tpo ul{
+    list-style: none;
+    padding-left: 0
+}
+#top ul li{
+    display: inline-block;
+}
+#top ul li a{
+    color: rgb(39, 60, 50);
+    text-decoration:none;
+    padding: 50px 80px;
+    font-size: 20px;
+   
+}
+#top ul li a:hover{
+    color: blueviolet;
+}
+.ni{
+   
+    right: 600px;
+    text-align: left;
+}
+.mn{
+    height: 30px;
+}
+.hi{
+    line-height: 15px;
+    padding: 50px 20px;
+}
+
+.hi2{
+    line-height: 5px;
+    padding: 5px 20px;
+}
+.ui{
+    object-position: 50px 75px;
+}

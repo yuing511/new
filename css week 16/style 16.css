@@ -1,0 +1,10 @@
+.box{
+    width: 500px;
+    height: 300px;
+    background-color: rgba(56, 57, 126, 0.712);
+    font-size: 30px;
+    text-align: center;
+    color: rgb(230, 174, 90);
+    margin: 200px;
+    line-height: 300px;
+}
